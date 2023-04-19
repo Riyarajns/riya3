@@ -15486,3 +15486,20 @@ ol.commentlist li .star-rating {
 }
 
 /* Support and Buy Button END */
+button#adminlogi {
+    background-color: #1d46f5;
+    color: #fff;
+    padding: 10px 20px;
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    outline: none;
+    border-width: 0;
+    border-style: solid;
+    border-color: transparent;
+    line-height: 1.42857;
+    border-radius: 3px;
+    font-weight: 400;
+    text-align: center;
+    white-space: pre;
+}
